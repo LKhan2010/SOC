@@ -23,7 +23,7 @@ Key findings included:
 - External IP communication
 - A decoded command used to download and execute `lh.sh`
 
-[Open the Wireshark project](Wireshark)
+[Open the Wireshark project](Wireshark-Log4j)
 
 ### Splunk – SSH Brute-Force Investigation
 Investigated repeated SSH login attempts against a Linux host.
@@ -34,7 +34,7 @@ Key findings included:
 - More than 500 attempts against the `john.smith` account
 - A successful login after repeated failed attempts
 
-[Open the Splunk project](SIEM%20Splunk)
+[Open the Splunk project](Splunk-Brute-Force)
 
 ### Elastic – ProxyLogon Investigation
 Investigated suspicious web requests linked to a possible ProxyLogon attack.
@@ -45,7 +45,7 @@ Key findings included:
 - Requests to `/ecp/proxyLogon.ecp`
 - Command execution through the `errorEE.aspx` web shell
 
-[Open the Elastic project](SIEM%20Elastic)
+[Open the Elastic project](Elastic-ProxyLogon)
 
 ### NetworkMiner – Network Artefact Analysis
 Used NetworkMiner to extract files and device information from a packet capture.
@@ -57,7 +57,7 @@ Key findings included:
 - Recovery of `Crazy-Fishing.jpg`
 - Source IP `50.22.95.9`
 
-[Open the NetworkMiner project](Network%20Miner)
+[Open the NetworkMiner project](NetworkMiner)
 
 ### Splunk – Suspicious Process Investigation
 Investigated suspicious process activity linked to an HR user.
@@ -69,7 +69,7 @@ Key findings included:
 - Activity on workstation `HR_01`
 - Windows Event ID 4688
 
-[Open the Benign project](Benign)
+[Open the Suspicious Process project](Splunk-Suspicious-Process)
 
 ### Boogeyman 2 – Phishing and Macro Analysis
 Investigated a phishing email and analysed the malicious Word attachment.
@@ -82,7 +82,7 @@ Key findings included:
 - Download of `update.png`
 - Saving and execution of `C:\ProgramData\update.js`
 
-[Open the Boogeyman 2 project](Boogeyman%202%20Phishing)
+[Open the Boogeyman 2 project](Boogeyman-2-Phishing)
 
 ## Tools Used
 
