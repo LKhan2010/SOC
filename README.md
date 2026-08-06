@@ -108,6 +108,13 @@ Key findings included:
 - Evidence gathering
 - Incident escalation
 
+## Training and Certification Evidence
+
+My cybersecurity training includes Level 2 and Level 3 Cyber Security qualifications and completion of the TryHackMe SOC Level 1 learning path.
+
+[View certificates, TryHackMe badges and completed room evidence](./TryHackMe-Evidence)
+
+
 ## Career Goal
 
 I am working towards an entry-level SOC Analyst or Junior Cybersecurity Analyst position where I can continue developing my investigation, monitoring and incident-response skills.
